@@ -1,0 +1,1 @@
+A comparative analysis of multiple deep learning architectures — VGG16, AlexNet, GoogLeNet, RNN, and CNN — trained and evaluated on benchmark datasets MNIST and CIFAR-10. The project investigates the effect of different train-test splits and analyzes each model’s performance using metrics like accuracy, confusion matrix, ROC curve, and AUC.
